@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end developing
 - 💞️ I’m looking to collaborate on coders to learn more about web development
 - 📫 How to reach me www.linkedin.com/in/rajdeep-dutta-b1bb59220
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: ...
 
 <!---
